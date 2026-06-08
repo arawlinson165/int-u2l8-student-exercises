@@ -23,7 +23,7 @@ pokemon-list {
 }
 
 /* 5. Something is off with our selector. */
-.pikachuparagraph {
+.pikachu-paragraph {
     color: yellow;
     font-style: italic;
 }
